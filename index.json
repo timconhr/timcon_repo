@@ -1,0 +1,19 @@
+{
+  "name": "TIMCON_repo",
+  "downloads": [
+    {
+      "id": "cyberpunk-2077",
+      "title": "Cyberpunk 2077",
+      "cover": "https://unsplash.com",
+      "uris": ["magnet:?xt=urn:btih:EXAMPLE1"],
+      "fileSize": "70 GB"
+    },
+    {
+      "id": "the-witcher-3",
+      "title": "The Witcher 3: Wild Hunt",
+      "cover": "https://unsplash.com",
+      "uris": ["magnet:?xt=urn:btih:EXAMPLE2"],
+      "fileSize": "50 GB"
+    }
+  ]
+}
